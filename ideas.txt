@@ -1,0 +1,5 @@
+26/10/24: 10:33 :: 
+	https://codedrills.io/contests/icpc-amritapuri-2022-qualifier-round/problems/graphs-and-colors
+	graphs are fucked up
+	strat must be worked upon 
+
